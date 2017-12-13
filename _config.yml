@@ -12,7 +12,7 @@ github_repo: "https://github.com/tanzhiwen/tanzhiwen.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "hard working life!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/myself.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 zhihu_username:     sstan
 github_username:    tanzhiwen
-jianshu_username:   e68fba58f75c
+jianshu_username:   2db9a9d9181c
 
 
 
