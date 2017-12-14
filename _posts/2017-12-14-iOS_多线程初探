@@ -1,0 +1,16 @@
+---
+layout:         post                     #使用的布局
+title:          iOS_多线程初探            #标题
+subTitle:       Hello World,Hello Blog   #副标题
+date:           2017-12-14               #时间
+author:         Miracle                  #作者
+header-img:     img/post-bg-2015.jpg     #这篇文章标题背景图片
+catalog:        true                     #是否归档
+tag:                                     #标签
+  -Blog
+  
+  >技术之上，为人坦荡！
+  
+  #前言
+  
+  
